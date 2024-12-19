@@ -1,3 +1,7 @@
+body {
+    background: #a79090;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -11,9 +15,11 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #070c55;
+    color: #120f41;
     }
 
 nav a:hover {
+    text-decoration: underline;
     color: #c77e10;
     }
+
