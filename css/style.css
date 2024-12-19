@@ -11,9 +11,9 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #333;
+    color: #070c55;
     }
-    
+
 nav a:hover {
-    color: #007bff;
+    color: #c77e10;
     }
